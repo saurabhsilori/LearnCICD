@@ -7,7 +7,7 @@ public class GitCode {
 		for(int i=1;i<5;i++) {
 			
 			System.out.println(i);
-			System.out.println(1);
+			
 		}
 		
 	}
